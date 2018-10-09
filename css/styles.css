@@ -1,15 +1,45 @@
+#banner {
+  display: flex;
+  margin: 0 auto;
+}
+
+.container {
+  background-color: #69CAC4;
+  padding-bottom: 29%;
+}
+
 .title {
   color: blue;
 
 }
 
+.shark {
+  width: 400px;
+  outline: black solid;
+  padding: 5px;
+}
+
 .navigation {
-  background-color: pink;
+  background-color: #007C92;
+  width: 400px;
+  outline: purple solid;
+
+}
+
+a{
+  color: #A2CAC3;
 
 }
 
 ul {
-  text-align: center;
+  text-align: left;
   list-style-position: inside;
+
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #007C92;
 
 }
