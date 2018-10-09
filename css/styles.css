@@ -1,28 +1,39 @@
 #banner {
   display: flex;
   margin: 0 auto;
+
 }
 
 .container {
   background-color: #69CAC4;
-  padding-bottom: 100%;
+  /* padding-bottom: 100%; */
 }
 
 .title {
-  color: blue;
+  color: #007C92;
+  text-align: center;
+  background-color: #F2C98F;
+
+}
+
+.row {
+  text-align: center;
 
 }
 
 .shark {
   width: 400px;
-  outline: black solid;
-  padding: 5px;
+  height: 275px;
+  padding-bottom: 5px;
+  display: flex;
+  margin: 0 auto;
 }
 
 .navigation {
+  float: left;
   background-color: #007C92;
-  width: 400px;
-  outline: purple solid;
+  width: 25%;
+  padding-top: 5px;
 
 }
 
