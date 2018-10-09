@@ -3,6 +3,11 @@
 
 }
 
+.navigation {
+  background-color: pink;
+  
+}
+
 ul {
   text-align: center;
   list-style-position: inside;
