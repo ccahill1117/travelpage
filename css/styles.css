@@ -12,7 +12,7 @@
 .title {
   color: #007C92;
   text-align: center;
-  background-color: #F2C98F;
+  background-color: #F27975;
 
 }
 
@@ -30,14 +30,14 @@
 }
 
 .navigation {
-  float: left;
+  /* float: left; */
   background-color: #007C92;
   width: 25%;
   padding-top: 5px;
 
 }
 
-a{
+a {
   color: #A2CAC3;
 
 }
